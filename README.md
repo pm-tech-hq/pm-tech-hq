@@ -4,11 +4,11 @@
 <p align="center">
   <a href="https://pmoluno.com">Website</a> ·
   <a href="mailto:contact@pmoluno.com">Email</a> ·
-  <a href="https://linkedin.com/in/your-linkedin">LinkedIn</a>
+  <a href="https://www.linkedin.com/in/pureheart-moluno/">LinkedIn</a>
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=your-github-username&label=Profile%20views&color=blue&style=flat" alt="Profile views" />
+  <img src="https://komarev.com/ghpvc/?username=pm-tech-hq&label=Profile%20views&color=blue&style=flat" alt="Profile views" />
 </p>
 
 ---
@@ -24,11 +24,11 @@ I share notes on automation, AI workflows, and developer tools on my [blog](http
 ---
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&hide_title=true&hide_border=true&count_private=true" alt="GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=pm-tech-hq&show_icons=true&hide_title=true&hide_border=true&count_private=true" alt="GitHub stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=your-github-username&hide_border=true" alt="GitHub streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=pm-tech-hq&hide_border=true" alt="GitHub streak" />
 </p>
 
 ---
