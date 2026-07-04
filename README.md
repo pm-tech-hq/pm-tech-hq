@@ -24,10 +24,6 @@ I share notes on automation, AI workflows, and developer tools on my [blog](http
 ---
 
 <p align="center">
-  <img src="https://github-stats-extended.vercel.app/api?username=pm-tech-hq&show_icons=true&hide_title=true&hide_border=true&count_private=true" alt="GitHub stats" />
-</p>
-
-<p align="center">
   <img src="https://streak-stats.demolab.com/?user=pm-tech-hq&hide_border=true" alt="GitHub streak" />
 </p>
 
